@@ -1,0 +1,7 @@
+name: cookiecutter_dsz
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter=2.2.0
+prefix: C:\Users\Admin\anaconda3\envs\cookiecutter_dsz
